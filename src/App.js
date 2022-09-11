@@ -1,5 +1,7 @@
+import MainScreen from "./screens/MainScreen";
+
 function App() {
-  return <h1 style={{ textAlign: "center" }}>It's gonna be awesome!</h1>;
+  return <MainScreen />;
 }
 
 export default App;
